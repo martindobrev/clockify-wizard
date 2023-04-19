@@ -1,0 +1,62 @@
+1680206141396:hello
+1680206252490:help
+1680207105719:import-csv
+1680207225767:import-csv --file /tmp/test_report.csv
+1680210290771:help
+1680210296891:import-csv
+1680210318356:import-csv --file /tmp/test_records.csv
+1680210359272:import-csv --file /tmp/test_report.csv
+1680210389635:stacktrace
+1680210509124:import-csv --file /tmp/test_report.csv
+1680214294218:help
+1680214299211:import-csv
+1680214311137:import-csv --file /tmp/test_data.csv
+1680553141949:help
+1680553148193:info
+1680553155314:import-csv
+1680553185318:import-csv --file /tmp/test_report.csv
+1680553190538:info
+1680553248960:quit
+1681065426304:help
+1681065434776:import-csv
+1681065456972:import-csv --file /home/martin/Downloads/test_report.csv
+1681065464183:display-abacus
+1681071138600:help
+1681071170156:import-csv --file /home/martin/Downloads/test_report.csv
+1681071176119:display-abacus
+1681071245414:import-csv --file /home/martin/Downloads/test_report.csv
+1681071247758:display-abacus
+1681071269551:quit
+1681160880754:help
+1681160887065:import-csv
+1681160907811:import-csv --file /home/martin/Downloads/test_report.csv
+1681160910870:export
+1681160946364:export --file /home/martin/tmp/test_output.csv --project EJPD
+1681161044746:exit
+1681161062487:import-csv --file /home/martin/Downloads/test_report.csv
+1681161065581:export --file /home/martin/tmp/test_output.csv --project EJPD
+1681161092768:export --file /home/martin/test_output.csv --project EJPD
+1681162508861:exit
+1681162540779:import-csv --file /home/martin/Downloads/test_report.csv
+1681162545817:export --file /home/martin/test_output.csv --project EJPD
+1681162590593:help
+1681162597039:view-daily
+1681245382207:help
+1681245405135:import-csv --file /home/martin/Downloads/test_report.csv
+1681245413752:export --file /home/martin/test_output.csv
+1681245630462:e xit
+1681245632340:exit
+1681245999687:clear
+1681246002512:help
+1681246010634:version
+1681246029040:import-csv --file /home/martin/Downloads/test_report.csv
+1681246039940:view-daily
+1681246074690:export --file /home/martin/test_output.csv --project EJPD
+1681925165898:help
+1681925171175:import-csv --file /home/martin/Downloads/test_report.csv
+1681925181446:export --file /home/martin/test_output.csv --project EJPD
+1681925418609:exit
+1681925465409:import-csv --file /home/martin/Downloads/test_report.csv
+1681925469334:export --file /home/martin/test_output.csv --project EJPD
+1681925789634:ecist
+1681925792176:exit
